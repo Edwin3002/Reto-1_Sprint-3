@@ -1,4 +1,4 @@
-import { Avatar, Box, Breadcrumb, BreadcrumbItem, BreadcrumbLink, Button, Center, Container, Flex, Image, Input, List, ListIcon, ListItem, Stack, Text, UnorderedList, Wrap, WrapItem } from '@chakra-ui/react'
+import { Avatar, Box, Breadcrumb, BreadcrumbItem, BreadcrumbLink, Button, Center, Container, Flex, Image, Input, List, ListItem, Stack, Text, UnorderedList, Wrap, WrapItem } from '@chakra-ui/react'
 import React from 'react'
 import bg1 from '../img/bg_1.png'
 import bg2 from '../img/bg_2.png'
